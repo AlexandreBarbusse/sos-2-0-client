@@ -1,0 +1,23 @@
+# 	 Here is how you can test this QGIS plugin (a QGIS SOS 2.0 Client):
+#
+# 1-  Open QGIS
+# 2-  Open this plugin by clicking on the black and white 
+# 	  "SOS" icon in the QGIS toolbar
+# 3-  Press the "Select SOS 2.0 server" button at the top 
+# 	  of the dialog window
+
+# 4-  Enter this SOS service URL:
+	  http://insitu.webservice-energy.org/52n-sos-webapp/sos
+	  
+# 5-  Press "OK"
+# 6-  A new layer named "Features of interest" as been added
+#     to your current QGIS session
+# 7-  Click on the selection icon of the QGIS toolbar
+# 8-  Select a station of the "Features of interest" layer
+# 9-  Go back to the plugin dialog window
+# 10- Default parameters are now visible on the plugin main
+#     dialog window. Select GetObservation desired 
+#     GetObservation request parameters 
+# 11- Select one the three features 
+#     ("Plot", "Table view", "Export as CSV file") buttons 
+#     at the bottom

@@ -1,0 +1,71 @@
+# =============================================================================
+# Copyright (c) ARMINES / MINES ParisTech 
+# by Alexandre Barbusse <alexandre.barbusse@gmail.com>
+#
+# this file is available under the BSD 3-clause License
+# (https://opensource.org/licenses/BSD-3-Clause)
+# =============================================================================
+
+
+# This file contains metadata for your plugin. Since 
+# version 2.0 of QGIS this is the proper way to supply 
+# information about a plugin. The old method of 
+# embedding metadata in __init__.py will 
+# is no longer supported since version 2.0.
+
+# This file should be included when you package your plugin.# Mandatory items:
+
+[general]
+name=SOS 2.0 Client
+qgisMinimumVersion=2.0
+description=Client for OGC Sensor Observation Service 
+	2.0 (SOS 2.0)
+version=0.1
+author=Alexandre Barbusse, MINES ParisTech / ARMINES
+email=alexandre.barbusse@gmail.com
+
+about=This is an alpha release for testing. 
+	Please consider it as a proof of concept.
+	This plugin retrieves observations data from OGC 
+	SOS (Sensor Observation Service) 2.0 servers, 
+	and then allows you to visualise and download
+	the data.
+	Sample data to test this plugin can be found in 
+	your plugins directory:
+	~/.qgis2/python/plugins/sos_2_0_client/test/sample_data.txt
+	This plugin is available under BSD licence 
+	(GPL compatible). 
+	It uses source code from OWSLib Python 
+	package, which is available under BSD licence 
+	as well.
+	The development of this plugin is an initiative 
+	carried out by the 
+	center Observation, Impacts, Energy (O.I.E.) 
+	of MINES ParisTech / ARMINES 
+	(contact: lionel.menard@mines-paristech.fr).
+
+tracker=github.com
+repository=github.com
+
+# End of mandatory metadata
+
+# Recommended items:
+
+# Uncomment the following line and add your changelog:
+changelog= List of the plugin versions and their changes:
+	0.1 - First testing release
+	
+	 
+
+# Tags are comma separated with spaces allowed
+tags= OGC, SOS, Sensor, Measurements, Observations, Time series
+
+homepage=
+category=Web
+icon=icon.png
+# experimental flag
+experimental=True
+
+# deprecated flag (applies to the whole plugin, not just a single version)
+deprecated=False
+

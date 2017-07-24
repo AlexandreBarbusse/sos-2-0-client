@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+	Copyright (c) ARMINES / MINES ParisTech 
+	by Alexandre Barbusse <alexandre.barbusse@gmail.com>
+
+	this file is available under the BSD 3-clause License
+	(https://opensource.org/licenses/BSD-3-Clause)
+-->
+<ui version="4.0">
+ <class>CalendarForm</class>
+ <widget class="QWidget" name="CalendarForm">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>449</width>
+    <height>181</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Form</string>
+  </property>
+  <widget class="QCalendarWidget" name="cal">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>451</width>
+     <height>181</height>
+    </rect>
+   </property>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
