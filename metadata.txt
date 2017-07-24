@@ -44,8 +44,8 @@ about=This is an alpha release for testing.
 	of MINES ParisTech / ARMINES 
 	(contact: lionel.menard@mines-paristech.fr).
 
-tracker=github.com
-repository=github.com
+tracker=https://github.com/AlexandreBarbusse/sos-2-0-client/issues
+repository=https://github.com/AlexandreBarbusse/sos-2-0-client
 
 # End of mandatory metadata
 
