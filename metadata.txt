@@ -60,7 +60,7 @@ changelog= List of the plugin versions and their changes:
 # Tags are comma separated with spaces allowed
 tags= OGC, SOS, Sensor, Measurements, Observations, Time series
 
-homepage=
+homepage=https://github.com/AlexandreBarbusse/sos-2-0-client
 category=Web
 icon=icon.png
 # experimental flag
