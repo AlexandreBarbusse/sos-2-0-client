@@ -103,6 +103,24 @@ In this section, we'll take a look at how you can use every feature of the plugi
         ![export_result](https://user-images.githubusercontent.com/20395133/28585970-6fefef48-7172-11e7-9970-8f1d749976e7.png)  
 
 
+## Meta
+
+Alexandre Barbusse, MINES ParisTech / ARMINES – alexandre.barbusse@gmail.com
+
+The development of this plugin is an initiative carried out by the [center Observation, Impacts, Energy (O.I.E.)](http://www.mines-paristech.eu/Research-valorization/Fields-of-Research/Energy-and-processes/O.I.E.-Centre-Observation-Impacts-Energy/) of MINES ParisTech / ARMINES (contact: lionel.menard@mines-paristech.fr)
+
+The minimum version of QGIS required to use this plugin is 2.0.
+
+This QGIS plugin is distributed under the [BSD licence](/LICENSE) (GPL compatible). It uses source code from [OWSLib Python package](https://github.com/geopython/OWSLib), which is available under the BSD licence as well.
+
+
+## Contributing
+
+1. Fork it (<https://github.com/AlexandreBarbusse/sos-2-0-client/fork>)
+2. Create your feature branch (`git checkout -b feature/fooBar`)
+3. Commit your changes (`git commit -am 'Add some fooBar'`)
+4. Push to the branch (`git push origin feature/fooBar`)
+5. Create a new Pull Request
 
 
 
