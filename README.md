@@ -7,4 +7,7 @@ the data.
 1. Click on the "Clone or download" button of this GitHub project. 
 ![press_clone_or_download](https://user-images.githubusercontent.com/20395133/28535255-fd4f32a6-70a3-11e7-8244-081d475032fa.png)
 
+2. Download the .zip file containing the QGIS sos-2-0-client plugin.
 ![press_download_zip](https://user-images.githubusercontent.com/20395133/28535354-5a97377e-70a4-11e7-8e20-cfdfd1be7c6d.png)
+
+
