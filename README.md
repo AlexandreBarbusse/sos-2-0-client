@@ -10,8 +10,10 @@ the data.
 
 
 
-2. Download the .zip file containing the QGIS sos-2-0-client plugin.    
-   ![press_download_zip](https://user-images.githubusercontent.com/20395133/28571541-9e2771b2-7143-11e7-8be3-7403723418c7.png)    
+
+2. Download the .zip file containing the QGIS sos-2-0-client plugin.      
+
+   ![press_download_zip](https://user-images.githubusercontent.com/20395133/28571541-9e2771b2-7143-11e7-8be3-7403723418c7.png)          
 
 3. Move or copy-paste the .zip file to your QGIS plugins directory:
    ```
