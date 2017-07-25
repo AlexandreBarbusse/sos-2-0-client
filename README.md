@@ -107,7 +107,7 @@ In this section, we'll take a look at how you can use every feature of the plugi
 
         ![plot_result](https://user-images.githubusercontent.com/20395133/28585838-f0b8e6d0-7171-11e7-90e7-97f0f2a0616e.png)    
      
-    *   A dialog window for export:
+    *   A window for export:
 
         ![export_result](https://user-images.githubusercontent.com/20395133/28585970-6fefef48-7172-11e7-9970-8f1d749976e7.png)  
 
