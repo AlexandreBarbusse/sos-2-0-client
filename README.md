@@ -1,6 +1,15 @@
 # QGIS SOS 2.0 Client plugin
 This QGIS Plugin is a client for OGC Sensor Observation Service 2.0 (SOS 2.0). 
-It retrieves observations data from OGC SOS (Sensor Observation Service) 2.0 servers, and then allows you to visualise and download these data.     
+It retrieves observations data from OGC SOS (Sensor Observation Service) 2.0 servers, and then allows you to visualise and download these data.  
+
+
+## Table of contents    
+ * [QGIS SOS 2.0 Client plugin](#qgis-sos-20-client-plugin)
+  * [Table of contents](#table-of-contents)
+  * [Installation](#installation)
+  * [Usage example](#usage-example)
+  * [Meta](#meta)
+  * [Contributing](#contributing)
 
 ## Installation    
 1. Click on the "Clone or download" button of this GitHub project. 
