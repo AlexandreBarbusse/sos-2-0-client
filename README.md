@@ -8,6 +8,7 @@ It retrieves observations data from OGC SOS (Sensor Observation Service) 2.0 ser
   * [Table of contents](#table-of-contents)
   * [Installation](#installation)
   * [Usage example](#usage-example)
+  * [Release History](#release-history)
   * [Meta](#meta)
   * [Contributing](#contributing)
 
@@ -111,7 +112,11 @@ In this section, we'll take a look at how you can use every feature of the plugi
 
         ![export_result](https://user-images.githubusercontent.com/20395133/28585970-6fefef48-7172-11e7-9970-8f1d749976e7.png)  
 
+## Release History
 
+* 1.0.0-beta
+    * First release for beta testing
+    
 ## Meta
 
 Alexandre Barbusse, MINES ParisTech / ARMINES – alexandre.barbusse@gmail.com
