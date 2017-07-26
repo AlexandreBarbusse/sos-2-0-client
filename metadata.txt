@@ -20,8 +20,8 @@ name=SOS 2.0 Client
 qgisMinimumVersion=2.0
 description=Client for OGC Sensor Observation Service 
 	2.0 (SOS 2.0)
-version=0.1
-author=Alexandre Barbusse, MINES ParisTech / ARMINES
+version=1.0.0-beta
+author=Alexandre Barbusse, MINES ParisTech
 email=alexandre.barbusse@gmail.com
 
 about=This is an alpha release for testing. 
