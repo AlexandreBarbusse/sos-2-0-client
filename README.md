@@ -114,6 +114,9 @@ In this section, we'll take a look at how you can use every feature of the plugi
 
 ## Release History
 
+* 1.0.1-beta
+    * CHANGE: Remove OWSLib folder
+    * CHANGE: Set QGIS minimum version to 2.18
 * 1.0.0-beta
     * First release for beta testing
     
