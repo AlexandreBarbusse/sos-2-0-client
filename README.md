@@ -123,7 +123,7 @@ Alexandre Barbusse, MINES ParisTech / ARMINES – alexandre.barbusse@gmail.com
 
 The development of this plugin is an initiative carried out by the [center Observation, Impacts, Energy (O.I.E.)](http://www.mines-paristech.eu/Research-valorization/Fields-of-Research/Energy-and-processes/O.I.E.-Centre-Observation-Impacts-Energy/) of MINES ParisTech / ARMINES (contact: lionel.menard@mines-paristech.fr)
 
-The minimum version of QGIS required to use this plugin is 2.0.
+The minimum version of QGIS required to use this plugin is 2.18 .
 
 This QGIS plugin is distributed under the [BSD licence](/LICENSE) (GPL compatible). 
 
