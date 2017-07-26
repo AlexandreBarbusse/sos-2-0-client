@@ -19,7 +19,7 @@ import datetime
 from qgis.core import *
 import qgis.utils
 
-from ..owslib.sos import SensorObservationService
+from owslib.sos import SensorObservationService
 from gui import CalendarWindow
 from ..sos import WGS84conversion, getCapabilitiesSOS200, getSeriesSOS200
 from ..sos import GetOfferingsList

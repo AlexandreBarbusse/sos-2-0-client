@@ -13,10 +13,10 @@
 
 from qgis.core import *
 
-from .owslib.etree import etree
-from .owslib.sos import SensorObservationService
-from .owslib.swe.observation import sos200
-from .owslib.swe.observation import sos100
+from owslib.etree import etree
+from owslib.sos import SensorObservationService
+from owslib.swe.observation import sos200
+from owslib.swe.observation import sos100
 from ui.gui import GetCapabilityWindow
         
 

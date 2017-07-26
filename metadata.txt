@@ -17,14 +17,14 @@
 
 [general]
 name=SOS 2.0 Client
-qgisMinimumVersion=2.0
+qgisMinimumVersion=2.18
 description=Client for OGC Sensor Observation Service 
 	2.0 (SOS 2.0)
-version=1.0.0-beta
+version=1.0.1-beta
 author=Alexandre Barbusse, MINES ParisTech
 email=alexandre.barbusse@gmail.com
 
-about=This is an alpha release for testing. 
+about=This is a beta release for testing. 
 	Please consider it as a proof of concept.
 	This plugin retrieves observations data from OGC 
 	SOS (Sensor Observation Service) 2.0 servers, 
@@ -35,9 +35,6 @@ about=This is an alpha release for testing.
 	~/.qgis2/python/plugins/sos_2_0_client/test/sample_data.txt
 	This plugin is available under BSD licence 
 	(GPL compatible). 
-	It uses source code from OWSLib Python 
-	package, which is available under BSD licence 
-	as well.
 	The development of this plugin is an initiative 
 	carried out by the 
 	center Observation, Impacts, Energy (O.I.E.) 
@@ -53,7 +50,7 @@ repository=https://github.com/AlexandreBarbusse/sos-2-0-client
 
 # Uncomment the following line and add your changelog:
 changelog= List of the plugin versions and their changes:
-	0.1 - First testing release
+	1.0.1-beta - First testing release
 	
 	 
 

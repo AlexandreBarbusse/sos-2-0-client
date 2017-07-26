@@ -125,7 +125,7 @@ The development of this plugin is an initiative carried out by the [center Obser
 
 The minimum version of QGIS required to use this plugin is 2.0.
 
-This QGIS plugin is distributed under the [BSD licence](/LICENSE) (GPL compatible). It uses source code from [OWSLib Python package](https://github.com/geopython/OWSLib), which is available under the BSD licence as well.
+This QGIS plugin is distributed under the [BSD licence](/LICENSE) (GPL compatible). 
 
 
 ## Contributing
