@@ -13,32 +13,16 @@ It retrieves observations data from OGC SOS (Sensor Observation Service) 2.0 ser
   * [Contributing](#contributing)
 
 ## Installation    
-1. Click on the "Clone or download" button of this GitHub project. 
 
-   ![press_clone_or_download_red](https://user-images.githubusercontent.com/20395133/28575415-25421f3c-7151-11e7-97b4-aaf707255e0e.png)      
+1. Open QGIS.
 
+2. Click on Plugins ‣ Manage and Install Plugins.... to open the Plugin Manager dialog.
 
-2. Download the .zip file containing the QGIS sos-2-0-client plugin.      
-
-   ![press_download_zip_red](https://user-images.githubusercontent.com/20395133/28575446-3bc776e4-7151-11e7-8f17-d7d298d7f1a8.png)              
-
-3. Move or copy-paste the .zip file to your QGIS plugins directory:
-   ```
-   ~/.qgis2/python/plugins/
-   ```
-    ![move_to_plugin_repository_red_2](https://user-images.githubusercontent.com/20395133/28575484-5273580e-7151-11e7-9512-3cb04730a730.png)      
-
-4. Unzip the .zip file in your QGIS plugins directory to get the plugin folder.
-
-5. Open QGIS.
-
-6. Click on Plugins ‣ Manage and Install Plugins.... to open the Plugin Manager dialog.
-
-7. Type "sos" into the search field to find the "SOS 2.0 Client" plugin.      
+3. Type "sos" into the search field to find the "SOS 2.0 Client" plugin.      
 
    ![tape_in_sos_red](https://user-images.githubusercontent.com/20395133/28575533-7b359a2c-7151-11e7-81bd-93d93fcbb807.png)              
    
-8. Check on the checkbox next to "SOS 2.0 Client" Plugin. This will enable the plugin and you will be able to use it.          
+4. Check on the checkbox next to "SOS 2.0 Client" Plugin. This will enable the plugin and you will be able to use it.          
 
    ![load_sos_2_0_red](https://user-images.githubusercontent.com/20395133/28575657-dd3f54ec-7151-11e7-95ab-a84fd6f78d33.png)    
    
