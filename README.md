@@ -44,7 +44,7 @@ In this section, we'll take a look at how you can use every feature of the plugi
 
    ![enter_sos_url](https://user-images.githubusercontent.com/20395133/28578028-c29d9c5a-7158-11e7-87c9-01381ceb944f.png) 
    
-4. A "Features of interest" layer as now been added to your current QGIS session. This layer indicates the locations of all the measurement stations whose measurement data are stored on the selected SOS server. Put this layer at the top of the list of layers, and then zoom to the layer to visualise all the stations.
+4. A "Features of interest" layer has been added to your current QGIS session. This layer indicates the locations of all the measurement stations whose measurement data are stored on the selected SOS server. Put this layer at the top of the list of layers, and then zoom to the layer to visualise all the stations.
 
 5. Click on the "Get server information" button if you wish to... get general information on the selected SOS server.     
 
