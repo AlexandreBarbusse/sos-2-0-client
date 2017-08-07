@@ -22,7 +22,7 @@ It retrieves observation and measurement data from SOS 2.0 servers, and then all
 
    ![tape_in_sos_red](https://user-images.githubusercontent.com/20395133/28575533-7b359a2c-7151-11e7-81bd-93d93fcbb807.png)              
    
-4. Check on the checkbox next to "SOS 2.0 Client" Plugin. This will enable the plugin and you will be able to use it.          
+4. Check the checkbox next to "SOS 2.0 Client" Plugin on. Now you can use the plugin.          
 
    ![load_sos_2_0_red](https://user-images.githubusercontent.com/20395133/28575657-dd3f54ec-7151-11e7-95ab-a84fd6f78d33.png)    
    
