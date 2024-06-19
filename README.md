@@ -106,7 +106,7 @@ In this section, we'll take a look at how you can use every feature of the plugi
     
 ## Meta
 
-Alexandre Barbusse, MINES ParisTech / ARMINES – alexandre.barbusse@gmail.com
+Alexandre Barbusse, MINES ParisTech / ARMINES
 
 The development of this plugin is an initiative carried out by the [center Observation, Impacts, Energy (O.I.E.)](http://www.mines-paristech.eu/Research-valorization/Fields-of-Research/Energy-and-processes/O.I.E.-Centre-Observation-Impacts-Energy/) of MINES ParisTech / ARMINES (contact: lionel.menard@mines-paristech.fr)
 
